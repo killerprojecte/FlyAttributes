@@ -1,0 +1,13 @@
+#白名单
+whitelist:
+  - "DIAMOND_SWORD"
+  - "DIAMOND_AXE"
+#镶嵌宝石设置
+gems:
+  "&7锋利宝石":
+    - "[enchant] damage_all 1"
+  "&7无限宝石":
+    - "[unbreak] true"
+
+#非白名单物品镶嵌提示
+invaild: "&c该物品无法镶嵌宝石"

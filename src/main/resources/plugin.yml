@@ -1,0 +1,6 @@
+name: FlyAttributes
+version: '${version}'
+main: flyproject.flyattributes.FlyAttributes
+api-version: 1.13
+authors: [ FlyProject ]
+description: Attributes system for making items
